@@ -29,7 +29,7 @@ try{
 
     return(
         <div>
-            <h1 className="app-title">Whether For {city}</h1>
+            <h1 className="app-title">Whether of {city}</h1>
             <input type="text" 
             className="search-bar" 
             placeholder="Enter City....."
