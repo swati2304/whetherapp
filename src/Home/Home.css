@@ -1,0 +1,28 @@
+.app-title{
+    text-align: center;
+    color: blueviolet;
+    font-size: 50px;
+}
+body{
+    background-color: rgb(241, 180, 211);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.search-bar{
+    width: 40%;
+    border-radius: 20px;
+    margin-left: 450px;
+    padding: 5px;
+    text-align: center;
+    font-size: 25px;
+}
+.temp{
+    text-align: center;
+}
+.msg-text{
+    text-align: center;
+    font-size: 30px;
+}
+.msg{
+    text-align: center;
+}
